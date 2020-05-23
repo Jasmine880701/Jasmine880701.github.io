@@ -1,0 +1,17 @@
+.a
+    {
+    width: 36px;
+    background-color:#FCFCFC;
+    }
+    .a:hover
+    {
+    transform:scale(1.25,1.25);
+    transition:transform 0.25s ease;
+    }
+    #Footer {
+    float: left;
+    width: 100%;
+    bottom: 0px;
+    background-color:#FCFCFC;
+    margin-top: 10%;
+    }
