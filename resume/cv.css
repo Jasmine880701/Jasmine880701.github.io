@@ -85,7 +85,7 @@ img.profile{
 table.intro{
 	margin-left: -5%;
 	margin-top:0%;
-	font-size: 1em;
+	font-size: 1.2em;
 	border-right-width: 2px;
 	border-right-style: dashed;
 	border-right-color: gray;
@@ -118,7 +118,7 @@ table.contact{
 	margin-left: 70%;
 	margin-top: 10%;
 	width: 30%;
-	font-size: 1em;
+	font-size: 1.2em;
 }
 td.contact{
 	font-size: 160%; 
@@ -222,7 +222,7 @@ h2.education{
   padding:3%;
   background-color:	#984143;
   color: white;
-  font-size: 1em;
+  font-size: 1.2ßem;
   position: abosolute;
   top:0%;
   border-radius: 10px;
@@ -380,37 +380,37 @@ h2.lanskill{
 img.class1{
 	width: 18%;
 	position: absolute;
-	margin-top: -45%;
+	margin-top: -40%;
 	left: 45%;
 }
 img.class2{
 	width:18%;
 	position: absolute;
-	margin-top: -45%;
+	margin-top: -40%;
 	left: 57%;
 }
 img.class3{
 	width:18%;
 	position: absolute;
-	margin-top: -45%;
+	margin-top: -40%;
 	left: 69%;
 }
 img.class4{
 	width: 18%;
 	position: absolute;
-	margin-top: -25%;
+	margin-top: -20%;
 	left: 45%;
 }
 img.class5{
 	width: 18%;
 	position: absolute;
-	margin-top: -25%;
+	margin-top: -20%;
 	left: 57%;
 }
 img.class6{
 	width: 18%;
 	position: absolute;
-	margin-top: -25%;
+	margin-top: -20%;
 	left: 69%;
 }
 h2.projects{
