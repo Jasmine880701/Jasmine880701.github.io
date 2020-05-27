@@ -431,8 +431,8 @@ img.img3{
 /* Create four equal columns that floats next to each other */
 .column2 {
   	float: left;
-  	width: 45%;
-  	margin-left: 3%;
+  	width: 25%;
+  	margin-left: 0%;
 }
 /* Clear floats after rows */ 
 .row2:after {
